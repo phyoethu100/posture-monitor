@@ -24,13 +24,13 @@ Step 17: Make sure you click Trust once "Trust This Computer?" shows up
 
 Note: If the project doesn't run on your iPhone, go to Settings -> General -> Device Management and click Trust for Apple's developer account.
 
-Here are the features of the application:\
-1. What is Posture? - General information about posture, different types of posture (dynamic and static), statistics of bad posture, and how to improve the posture\
-2. Causes of Back Pain - Causes, symptoms, and different treatments of back pain\
-3. Benefits of Posture - Benefits of having a good posture\
-4. Posture Guidelines - Some guidelines to have a good posture\
-5. Posture Exercises - Several YouTube videos for good posture, such as home exercises, daily posture routine, and workout exercises\
-6. Try Our Posture Monitor - Detect whether the posture is good or bad after taking a photo with iPhone camera\
+Here are the features of the application:
+1. What is Posture? - General information about posture, different types of posture, statistics of bad posture, and how to improve the posture
+2. Causes of Back Pain - Causes, symptoms, and different treatments of back pain
+3. Benefits of Posture - Benefits of having a good posture
+4. Posture Guidelines - Some guidelines to have a good posture
+5. Posture Exercises - Several YouTube videos for good posture, such as home exercises, daily posture routine, and workout exercises
+6. Try Our Posture Monitor - Detect whether the posture is good or bad after taking a photo with iPhone camera
 7. Detect Your Poses - Detect body poses using wireframes
 
 Created by:\
