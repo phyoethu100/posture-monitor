@@ -1,2 +1,1 @@
-# posture
-Posture monitor application
+# Posture Monitpr Application
