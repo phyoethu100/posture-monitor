@@ -20,6 +20,6 @@ Step 13: Make sure that the checkbox for automatically manage signing is checked
 Step 14: In Team section under Signing & Capabilities, change the name to the user's name\
 Step 15: Before running, make sure to change the device to your iPhone (or it won't run on your phone)\
 Step 16: Run the project once you complete steps 1-15\
-Step 17: Make sure you click Trust once "Trust This Computer?" shows up\  
+Step 17: Make sure you click Trust once "Trust This Computer?" shows up
 
 Note: If the project doesn't run on your iPhone, go to Settings -> General -> Device Management and click Trust for Apple's developer account.
