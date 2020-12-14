@@ -1,7 +1,7 @@
 # Posture Monitor Application
 
 What is it?\
-An iOS mobile application that allows the users to monitor their posture and detect body poses.\
+An iOS mobile application that allows the users to monitor their posture and detect body poses.
 
 How do you download it?\
 Step 1: You need an iPhone (preferably iPhone 6 or above) and a Mac (any mac computer)\
@@ -22,4 +22,4 @@ Step 15: Before running, make sure to change the device to your iPhone (or it wo
 Step 16: Run the project once you complete steps 1-15\
 Step 17: Make sure you click Trust once "Trust This Computer?" shows up\  
 
-Note: If the project doesn't run on your iPhone, go to Settings -> General -> Device Management and click Trust for Apple's developer account.\
+Note: If the project doesn't run on your iPhone, go to Settings -> General -> Device Management and click Trust for Apple's developer account.
