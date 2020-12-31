@@ -34,6 +34,6 @@ Here are the features of the application:
 7. Detect Your Poses - Detect body poses using wireframes
 
 Created by:\
-   Octavio Cruz Ortega\
-   Phyoe Thu\
-   Jorge Marvin De Ocampo
+\tOctavio Cruz Ortega\
+\tPhyoe Thu\
+\tJorge Marvin De Ocampo
