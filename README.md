@@ -33,7 +33,7 @@ Here are the features of the application:
 6. Try Our Posture Monitor - Detect whether the posture is good or bad after taking a photo with iPhone camera
 7. Detect Your Poses - Detect body poses using wireframes
 
-Created by:\
-* Octavio Cruz Ortega\
-* Phyoe Thu\
+Created by:
+* Octavio Cruz Ortega
+* Phyoe Thu
 * Jorge Marvin De Ocampo
